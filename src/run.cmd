@@ -1,0 +1,1 @@
+.\jre1.8.0_261\bin\java  -jar .\recaf-2.21.13-J8-jar-with-dependencies.jar
